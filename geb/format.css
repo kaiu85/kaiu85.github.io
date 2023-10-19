@@ -1,0 +1,167 @@
+
+/* ==========  allgemein ========== */
+
+body
+{margin-top: 0px; margin-left: 0px; margin-right: 0px;margin-bottom: 0px; background-color: #FFFFFF; font-size: 16px;
+font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;color:#8D8D8D;line-height: 22px;
+}
+
+/* scrolleiste internet explorer ab vers.5.5 */
+
+body
+{scrollbar-arrow-color: #0070C0; scrollbar-base-color: #000;
+scrollbar-highlight-color : #706C67; scrollbar-shadow-color : #706C67;
+SCROLLBAR-TRACK-COLOR: #504E4B;}
+
+/* überschriften */
+
+h2{ font-size: 28px;
+font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;color:#0050A0;background-color:#;
+margin-bottom:30px;letter-spacing:1px;
+border-bottom:solid 1px #211f1d;
+padding-bottom:10px;
+padding-left:0px;
+}
+
+.punkt {color:#A02000;}
+
+
+/* ==========  kopf ========== */
+
+#top1 {
+height:200px;
+background-color:#FFFFFF;
+padding-left:40px
+}
+
+#top2 {
+height:40px;
+background-color:FFFFFF;
+border-bottom:solid 1px #3F3D3A;
+border-top:solid 1px #3F3D3A;
+padding-right:28px}
+
+#name {color:#FF7F00;font-size:40px;font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;}
+
+
+
+/* ==========  inhalt und spalte rechts ========== */
+
+
+/* fotos im text */
+
+.imgstyle {float:left;border:solid 0px           #dddddd;margin-left:0px;margin-top:20px;margin-bottom:20px;margin-right:20px}
+
+.imgstyle2 {float:RIGHT;border:solid 0px           #dddddd;margin-left:20px;margin-top:20px;margin-bottom:20px;margin-right:0px}
+
+
+
+/* linie zw. spalte 1(text) und spalte2  */
+
+#trenner{background-color:#3F3D3A;
+}
+
+
+
+#sp1 {text-align:justify;
+padding-left: 20px;padding-right:40px;padding-top: 50px;padding-bottom: 30px;
+background-color:#FFFFFF;width:100%;
+border-top:solid 0px #efefef;
+font-size: 16px;
+font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;color:#8D8D8D;line-height: 22px;
+}
+
+
+
+#nav {
+padding-left: 30px;padding-right:20px;padding-top: 50px;padding-bottom: 30px;
+background-color:#FFFFFF;}
+
+
+#slogan {color:#0070C0;font-size:20px;font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;padding-left:40px}
+
+
+
+/* boxenüberschrift der spalte rechts  */
+
+h3.boxheader {color:#FF7F00;background-color:#;
+font-size: 20px;line-height: 20px;
+font-family: trebuchet ms,arial, helvetica, tahoma ,verdana,  sans-serif;
+border-bottom:solid 1px #211F1D;
+padding-left:0px}
+
+
+
+/* boxen in spalte rechts  */
+
+.box1{
+font-size: 14px;line-height: 15px;
+font-family: trebuchet ms arial, helvetica, tahoma ,verdana,  sans-serif;
+background-color:#;
+padding:10px;
+width:260px;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+vertical-align:top;
+color:#7f7f7f;
+}
+
+.box2{
+font-size: 11px;line-height: 15px;
+font-family:trebuchet ms, arial, helvetica, tahoma ,verdana,  sans-serif;
+background-color:#;
+padding:10px;
+width:260px;
+vertical-align:top;
+color:#7f7f7f;
+border-bottom:dashed 0px #506a13;
+border-right:solid 0px #fff;
+border-left:solid 0px #fff;
+}
+
+
+
+.box3{
+font-size: 14px;line-height: 15px;
+font-family: trebuchet ms,arial, helvetica, tahoma ,verdana,  sans-serif;
+background-color:#;
+padding:10px;
+width:260px;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+vertical-align:top;
+color:#7f7f7f;
+
+}
+.box4{
+font-size: 14px;line-height: 15px;
+font-family: trebuchet ms arial, helvetica, tahoma ,verdana,  sans-serif;
+background-color:#;
+padding:10px;
+width:260px;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+vertical-align:top;
+color:#7f7f7f;
+}
+
+
+
+
+/* ==========  fuss ========== */
+
+#fuss {font: normal 14px verdana, sans-serif; color: #7f7f7f;
+letter-spacing:2px;
+text-align:center;
+vertical-align:middle;
+background-color:#FFFFFF;
+border-top:solid 1px #3F3D3A;
+height:157px;
+padding-top:16px;
+}

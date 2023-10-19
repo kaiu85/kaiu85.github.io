@@ -1,0 +1,113 @@
+
+
+/* menue ganz oben */
+
+#menuhorizontal a, #menuhorizontal a:visited , #menuhorizontal a:active {display: block;
+color:#FF6600;
+
+text-decoration:none ;font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif; font-size: 18px;
+padding-left: 20px;padding-right: 20px; padding-bottom: 0px; padding-top:0px;
+
+height:40px;
+line-height:40px;
+text-align:center;
+vertical-align:bottom;
+background:transparent;
+}
+
+#menuhorizontal a:hover {background-color:#; text-decoration:none ;
+color:#FF6600;
+text-decoration:none ;
+border-left:solid 0px #fff;
+background-color: FFFFCC;
+
+}
+
+.trenn {width:1px;color:#544200;background:transparent;}
+
+
+
+/* menue rechts  */
+
+#menu2 {
+
+border: dashed 0px #fff;
+background-color:#;
+text-align: left;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+padding-bottom:0px;
+padding-top:0px;
+
+}
+
+#menu2 ul, #menu2 li {
+list-style-type: none;
+margin-left:6px;
+padding: 0px;
+color:#034367
+
+}
+#menu2 li a:link, #menu2 li a:visited, #menu2 li a:active {display:block;
+        border-bottom: dashed 0px #C2631D;
+
+        color:#FF6600;text-decoration:none;
+        font-size: 16px;
+font-family: trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;
+height: 20px;
+line-height: 20px;
+background-image:url(images/xcircle.gif);
+background-repeat:no-repeat;
+background-position:4px 50%;
+padding-left:10px;
+padding-bottom:8px;
+padding-top:8px;
+font-weight:normal;
+background-color:#FFFFFF;
+border-bottom:solid 1px #FF6600;
+
+}
+
+#menu2 li a:hover { background-color:FFFFCC;
+                color:#FF6600;
+        text-decoration:none;
+background-image:url(images/xcircle2.gif);
+background-repeat:no-repeat;
+background-position:4px 50%;
+padding-left:10px;border-left:dotted 0px #FF7F00;
+}
+
+
+
+/* menue news-box  */
+
+#menubox a , #menubox a:visited , #menubox a:active {display:inline;
+background:transparent;
+color:#004F7D;
+font-size: 14px;
+font-family: trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;
+text-decoration:none;
+text-align:left;
+font-style:normal;
+}
+
+#menubox a:hover{
+background-color:#0050A0;
+color:#fff;
+text-decoration:underline ;
+}
+
+
+
+/* allgemeine links im text */
+
+a:link, a:visited, a:active{ font-size: 16px;
+font-family:trebuchet ms, arial, helvetica,verdana, georgia, "times new roman", sans-serif;color:#8D8D8D;line-height: 22px;
+background:transparent;
+text-decoration:underline;
+}
+
+a:hover{ text-decoration:underline;background-color:#FFFFCC;
+color:#8D8D8D;}
